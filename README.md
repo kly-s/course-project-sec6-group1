@@ -20,8 +20,8 @@ The website covers five functional areas, each assigned to one team member.
 
 | Task | Description | Student ID | GitHub Username |
 |------|-------------|------------|-----------------|
-| 1 | Home Page, Authentication & User Management | | |
-| 2 | Course Resources | | |
+| 1 | Home Page, Authentication & User Management | 202208704 | Hussain Ali Ahmed Ali |
+| 2 | Course Resources |202307865 |Wesam abdurabu masharh |
 | 3 | Weekly Breakdown | | |
 | 4 | Assignments | | |
 | 5 | Discussion Board | | |
