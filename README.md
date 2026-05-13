@@ -13,19 +13,18 @@ The website covers five functional areas, each assigned to one team member.
 ## Live Demo
 
 > **Replit Deployment:** Update this link with your Replit deployment URL once the project is live.
-
+https://course-project-sec-6-group-1--Kly-s.replit.app
 ---
 
 ## Team
 
 | Task | Description | Student ID | GitHub Username |
 |------|-------------|------------|-----------------|
-| 1 | Home Page, Authentication & User Management | | |
-| 2 | Course Resources | | |
-| 3 | Weekly Breakdown | | |
+| 1 | Home Page, Authentication & User Management | 202208704 | Hussain Ali Ahmed Ali |
+| 2 | Course Resources |202307865 |Wesam abdurabu masharh |
+| 3 | Weekly Breakdown | 202303470 | Youssef Osama Ahmed |
 | 4 | Assignments | | |
 | 5 | Discussion Board | | |
-
 ---
 
 ## Task Descriptions
